@@ -1,6 +1,6 @@
 +++
 title =  "you"
-tags = ['writing"]
+tags = ["writing"]
 images = ["images/feature-image.png"]
 date = "2025-10-26T14:25:13-05:00"
 categories = ["writing"]
