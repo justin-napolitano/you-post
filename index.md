@@ -1,12 +1,26 @@
 ---
-slug: "github-you-post"
-title: "you-post"
-repo: "justin-napolitano/you-post"
-githubUrl: "https://github.com/justin-napolitano/you-post"
-generatedAt: "2025-11-23T09:52:41.706275Z"
-source: "github-auto"
+slug: github-you-post
+title: 'you-post: Minimal Markdown Content Repository with TOML Metadata'
+repo: justin-napolitano/you-post
+githubUrl: https://github.com/justin-napolitano/you-post
+generatedAt: '2025-11-23T09:52:41.706275Z'
+source: github-auto
+summary: >-
+  Overview of a lightweight markdown project using TOML front matter for structured content
+  management and metadata configuration.
+tags:
+  - markdown
+  - toml
+  - static-site-generator
+  - content-management
+  - personal-blog
+seoPrimaryKeyword: markdown with toml metadata
+seoSecondaryKeywords:
+  - content repository
+  - static site generator
+  - markdown content management
+seoOptimized: true
 ---
-
 
 # you-post: Project Overview and Technical Notes
 
