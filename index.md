@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - static site generator
   - markdown content management
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post describes a lightweight markdown project using TOML front matter aimed at structured
+  content management and mentions static site generators like Hugo. The focus on markdown content,
+  metadata for blogs, and future recommendations around static site generation aligns closely with
+  the 'static' family which specializes in static site and blog projects.
 ---
 
 # you-post: Project Overview and Technical Notes
@@ -70,3 +77,4 @@ Managing written content with structured metadata can be cumbersome without a cl
 ## Summary
 
 This repository serves as a lightweight content repository using markdown and TOML front matter to organize writing. It prioritizes simplicity and extensibility, leaving rendering and deployment to external tools or future enhancements. The current state provides a foundation for structured content management with room for growth into a full static site or blog platform.
+
