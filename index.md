@@ -1,32 +1,44 @@
 ---
 slug: github-you-post
-title: 'you-post: Minimal Markdown Content Repository with TOML Metadata'
+title: 'you-post: A Minimalist Markdown Content Repository'
 repo: justin-napolitano/you-post
 githubUrl: https://github.com/justin-napolitano/you-post
 generatedAt: '2025-11-23T09:52:41.706275Z'
 source: github-auto
 summary: >-
-  Overview of a lightweight markdown project using TOML front matter for structured content
-  management and metadata configuration.
+  Explore the you-post project, a minimalist repository for managing written
+  content with markdown and TOML metadata.
 tags:
   - markdown
   - toml
   - static-site-generator
   - content-management
   - personal-blog
-seoPrimaryKeyword: markdown with toml metadata
+  - TOML
+  - static site generators
+  - content management
+  - blogging
+  - Hugo
+  - CI/CD
+  - metadata
+seoPrimaryKeyword: markdown content management
 seoSecondaryKeywords:
-  - content repository
+  - TOML front matter
   - static site generator
-  - markdown content management
+  - lightweight writing repository
+  - content organization
+  - blogging framework
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post describes a lightweight markdown project using TOML front matter aimed at structured
-  content management and mentions static site generators like Hugo. The focus on markdown content,
-  metadata for blogs, and future recommendations around static site generation aligns closely with
-  the 'static' family which specializes in static site and blog projects.
+  The post describes a lightweight markdown project using TOML front matter
+  aimed at structured content management and mentions static site generators
+  like Hugo. The focus on markdown content, metadata for blogs, and future
+  recommendations around static site generation aligns closely with the 'static'
+  family which specializes in static site and blog projects.
+kind: project
+id: github-you-post
 ---
 
 # you-post: Project Overview and Technical Notes
