@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/you-post
 generatedAt: '2025-11-24T21:36:52.080Z'
 source: github-auto
 summary: >-
-  Explore a minimal project for organizing markdown content with metadata for
-  categorization and presentation.
+  Explore a minimal project for organizing markdown content with metadata for categorization and
+  presentation.
 tags:
   - markdown
   - static site generator
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - markdown viewer setup
   - project roadmap
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -95,4 +95,5 @@ Or if using a static site generator, configure it to process the markdown files.
 ---
 
 Note: This README is based on assumptions due to limited repository information. Adjust according to your project specifics.
+
 
