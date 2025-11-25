@@ -1,19 +1,30 @@
 ---
 slug: github-you-post
 id: github-you-post
-title: you-post
+title: Markdown-Based Content Creation with Metadata Support
 repo: justin-napolitano/you-post
 githubUrl: https://github.com/justin-napolitano/you-post
 generatedAt: '2025-11-24T21:36:52.080Z'
 source: github-auto
 summary: >-
-  A minimal writing project focused on content creation and organization. This
-  repository contains markdown-based writing with metadata for categorization
-  and presentation.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a minimal project for organizing markdown content with metadata for
+  categorization and presentation.
+tags:
+  - markdown
+  - static site generator
+  - front matter
+  - content organization
+  - Hugo
+  - Jekyll
+  - VSCode
+seoPrimaryKeyword: markdown content organization
+seoSecondaryKeywords:
+  - markdown metadata
+  - static site project
+  - content creation tools
+  - markdown viewer setup
+  - project roadmap
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
